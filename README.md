@@ -1,7 +1,7 @@
 # truffle
 truffle
 
-Virsual Code
+Visual Code
 live server
 prettier
 
