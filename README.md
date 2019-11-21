@@ -1,6 +1,10 @@
 # truffle
 truffle
 
+Virsual Code
+live server
+prettier
+
 
      -- SimpleStorage.js
 
@@ -27,3 +31,14 @@ truffle
      module.exports = function(deployer) {
           deployer.deploy(SimpleStorage);
      };
+
+  -- truffle-config.js
+
+    networks: {
+     development: {
+      host: "127.0.0.1",     // Localhost (default: none)
+      port: 8545,            // Standard Ethereum port (default: none)
+      network_id: "*",       // Any network (default: none)
+     },
+
+
