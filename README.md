@@ -6,7 +6,7 @@ live server
 prettier
 
 
-     -- SimpleStorage.js
+  --- SimpleStorage.js
 
      pragma solidity ^0.5.0;
 
